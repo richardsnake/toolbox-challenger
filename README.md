@@ -5,7 +5,7 @@ Este es un repo que contiene dos prroyectos principales
 1. api (back-end)
 2. panel_infromativo (front-end)
 
-Estos proyectos han sido desarrollados con diferentes versiones de NodeJS según lo indicado en el **[reto de tollbox] (https://tbxnet.applytojob.com/questionnaire/5fb6954bc1c6f/prospect_20240224014531_985YYKRFHZFSAWXR/projob_20240224014531_Y9LQNLSWADSIK8LN)
+Estos proyectos han sido desarrollados con diferentes versiones de NodeJS según lo indicado en el ![reto de tollbox] (https://tbxnet.applytojob.com/questionnaire/5fb6954bc1c6f/prospect_20240224014531_985YYKRFHZFSAWXR/projob_20240224014531_Y9LQNLSWADSIK8LN)
 
 ## Api
 
