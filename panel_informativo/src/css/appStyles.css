@@ -1,0 +1,49 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  /* Estilos para la tabla */
+  .table {
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Estilos para la cabecera de la tabla */
+  .table thead {
+    background-color: #ff6b6b;
+    color: white;
+  }
+  
+  /* Estilos para la barra de búsqueda */
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #ff8787;
+  }
+  

@@ -1,0 +1,28 @@
+.container {
+  margin-top: 20px;
+}
+
+/* Estilos para el titulo */
+.container h3{
+  background-color: #ff6b6b;
+  color: white;
+}
+
+/* Estilos para la tabla */
+.table {
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Estilos para la cabecera de la tabla */
+.table thead {
+  background-color: #ff6b6b;
+  color: white;
+}
