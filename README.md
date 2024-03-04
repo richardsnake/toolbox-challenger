@@ -16,6 +16,6 @@ Estos proyectos han sido desarrollados con diferentes versiones de NodeJS según
 
 ## Panel_informativo
 
-Acceder a la carpeta <ins>panel_informativo/</ins>
-Luego, instalar las dependencias del proyecto ejecutando el comando <ins> npm install</ins>
-Para ejecutar el proyecto panel_informativo (en el puerto 3000) se debe ejecutar el comando <ins> npm start</ins>
+1. Acceder a la carpeta <ins>panel_informativo/</ins>
+2. Luego, instalar las dependencias del proyecto ejecutando el comando <ins> npm install</ins>
+3. Para ejecutar el proyecto panel_informativo (en el puerto 3000) se debe ejecutar el comando <ins> npm start</ins>
