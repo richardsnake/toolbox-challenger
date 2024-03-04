@@ -9,13 +9,13 @@ Estos proyectos han sido desarrollados con diferentes versiones de NodeJS según
 
 ## Api
 
-1. Acceder a la carpeta ==api/==
+1. Acceder a la carpeta <ins>api/</ins>
 2. Luego, instalar las dependencias del proyecto ejecutando el comandos <ins>$ npm install</ins> 
 3. Para ejecutar el proyecto api (en el puerto 3001) se debe ejecutar el comando <ins>$ npm start</ins> 
 4. Para ejecutar las pruebas unitarias (unit test) se debe ejecutar el comando <ins>$ npm run test</ins>
 
 ## Panel_informativo
 
-Acceder a la carpeta ==panel_informativo/==
-Luego, instalar las dependencias del proyecto ejecutando el comando <ins> npm install</ns>
+Acceder a la carpeta <ins>panel_informativo/</ins>
+Luego, instalar las dependencias del proyecto ejecutando el comando <ins> npm install</ins>
 Para ejecutar el proyecto panel_informativo (en el puerto 3000) se debe ejecutar el comando <ins> npm start</ins>
